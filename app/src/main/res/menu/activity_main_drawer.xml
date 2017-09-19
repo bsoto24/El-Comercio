@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_politica"
+        android:icon="@drawable/ic_politica"
+        android:title="Politica" />
+    <item
+        android:id="@+id/nav_economia"
+        android:icon="@drawable/ic_economia"
+        android:title="Economia" />
+    <item
+        android:id="@+id/nav_deporte"
+        android:icon="@drawable/ic_deportes"
+        android:title="Deporte" />
+</menu>
